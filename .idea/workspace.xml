@@ -7,11 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b09dbc4-e97a-449f-8f43-4c3be04f0516" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chat_Client/Chat_Client.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chat_Library/Chat_Library.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chat_Server/Chat_Server.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Chat_Server_GUI/Chat_Server_GUI.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Network/Network.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/Chat_Server_GUI_jar/Chat_Server_GUI.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/ChatClientGUI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/ChatClientGUI$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/ChatClientGUI$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/ChatClientGUI$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/ChatClientGUI$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/ChatClientGUI$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/ChatClientGUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Client/ru/geekbrains/chat/client/portal_dlya_programmistov_geekbrains.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Library/ru/geekbrains/chat/library/Messages.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server/ru/geekbrains/chat/server/core/ChatServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server/ru/geekbrains/chat/server/core/ChatServerListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server/ru/geekbrains/chat/server/core/ChatSocketThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server/ru/geekbrains/chat/server/core/SQLSecurityManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server/ru/geekbrains/chat/server/core/SecurityManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server_GUI/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server_GUI/ru/geekbrains/chat/server/gui/ChatServerGUI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server_GUI/ru/geekbrains/chat/server/gui/ChatServerGUI$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Chat_Server_GUI/ru/geekbrains/chat/server/gui/ChatServerGUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Network/ru/geekbrains/network/ServerSocketThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Network/ru/geekbrains/network/ServerSocketThreadListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Network/ru/geekbrains/network/SocketThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Network/ru/geekbrains/network/SocketThreadListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Network/ru/geekbrains/network/samples/SimpleClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Network/ru/geekbrains/network/samples/SimpleServer.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -545,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499598696618</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="removing ignored files">
+      <created>1499599029605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1499599029605</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
